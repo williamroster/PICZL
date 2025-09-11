@@ -2,7 +2,7 @@
 |---|---|
 
 
-**PICZL** is a modular Python package for estimating photometric redshifts of galaxies and AGN as observed in the 10th data release of the [DESI Legacy Survey](https://www.legacysurvey.org) by using both catalog-based photometry and imaging data. 
+**PICZL** (under construction in beta) is a modular Python package for estimating photometric redshifts of galaxies and AGN as observed in the 10th data release of the [DESI Legacy Survey](https://www.legacysurvey.org) by using both catalog-based photometry and imaging data. 
 It supports inference using ensemble deep learning models and includes tools for: 
 
 - Gaussian Mixture Model (GMM) outputs with ensemble PDFs.
